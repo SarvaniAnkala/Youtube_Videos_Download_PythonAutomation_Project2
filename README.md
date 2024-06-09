@@ -5,6 +5,8 @@
 2.It's ideal for offline viewing, content archiving, educational purposes, and content creation. Users can install the tool by cloning the repository and installing the required pytube library via pip. 
 ```pip install pytube```
 
-3.The downloader provides a command-line interface where users can download videos by specifying the YouTube URL, choose the desired resolution, or download only the audio. 
+3.Make a Folder to store your downloaded videos. Add this folder path in yt.download() line of code.
 
-4.Additionally, it supports bulk downloading from playlists, making it a powerful utility for managing and accessing YouTube content offline. This tool ensures high-quality video downloads efficiently and is an essential asset for social media managers, digital marketers, and content creators.
+4.The downloader provides a command-line interface where users can download videos by specifying the YouTube URL, choose the desired resolution, or download only the audio. 
+
+5.Additionally, it supports bulk downloading from playlists, making it a powerful utility for managing and accessing YouTube content offline. This tool ensures high-quality video downloads efficiently and is an essential asset for social media managers, digital marketers, and content creators.
